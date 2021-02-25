@@ -1,0 +1,10 @@
+.container {
+    border: 5px solid black;
+    height: 500px;
+    overflow-y: auto;
+}
+
+.container::-webkit-scrollbar {
+    display: none;
+  }
+
